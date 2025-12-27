@@ -21,23 +21,6 @@ Sou **Desenvolvedor de Software** com **mais de 3 anos de experiência profissio
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/isaque-diniz-da-silva-a0773459/)
 [![E-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:isaquediniz14@gmail.com)
-
----
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=isaque14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaque14&layout=compact&theme=dracula&size_weight=1&count_weight=0.5&hide=html,css"
-    height="165"
-  />
-</p>
-
-> 💡 <i>As linguagens refletem repositórios públicos e não necessariamente meu uso profissional diário.</i>
-
 ---
 
 ### 🛠️ Stack Principal
