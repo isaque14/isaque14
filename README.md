@@ -1,6 +1,6 @@
 ### 👋 Console.WriteLine("Hello World, I'm Isaque Diniz 🚀")
 
-Sou **Desenvolvedor de Software Back-end** com **mais de 3 anos de experiência profissional**, atuando principalmente com **C# e .NET**, focado em desenvolvimento de APIs, integrações, mensageria e soluções corporativas escaláveis.
+Sou **Desenvolvedor de Software** com **mais de 3 anos de experiência profissional**, atuando principalmente com **C# e .NET**, focado em desenvolvimento de APIs, integrações, mensageria e soluções corporativas escaláveis.
 
 🎓 **Formação**
 
@@ -25,11 +25,19 @@ Sou **Desenvolvedor de Software Back-end** com **mais de 3 anos de experiência 
 ---
 ### 📊 GitHub Analytics
 
-![Isaque Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=isaque14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=isaque14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaque14&layout=compact&theme=dracula&size_weight=1&count_weight=0.5&hide=html,css"
+    height="165"
+  />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaque14&layout=compact&theme=dracula&size_weight=1&count_weight=0.5&hide=html,css)
+> 💡 <i>As linguagens refletem repositórios públicos e não necessariamente meu uso profissional diário.</i>
 
-> 💡 *As linguagens refletem repositórios públicos e não necessariamente meu uso profissional diário.*
 ---
 
 ### 🛠️ Stack Principal
