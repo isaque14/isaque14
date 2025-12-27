@@ -1,6 +1,6 @@
 ### 👋 Console.WriteLine("Hello World, I'm Isaque Diniz 🚀")
 
-Sou **Desenvolvedor de Software** com **mais de 3 anos de experiência profissional**, atuando principalmente com **C# e .NET**, focado em desenvolvimento de APIs, integrações, mensageria e soluções corporativas escaláveis.
+Sou **Desenvolvedor de Software** com **mais de 3 anos de experiência profissional** atuando com soluções corporativas escaláveis.
 
 🎓 **Formação**
 
@@ -10,7 +10,9 @@ Sou **Desenvolvedor de Software** com **mais de 3 anos de experiência profissio
 💼 **Atuação profissional**
 
 * Desenvolvimento Back-end com **C# / .NET**
-* Integrações com sistemas legados (SAP, SOAP, REST)
+* Desenvolvimento Front-end com **React JS**
+* Qualidade de Código (KISS, SOLID, Clean Code, Clean Architecture, Design Patterns)
+* Testes Unitários (xUnit)
 * Mensageria e processamento assíncrono
 * Banco de dados relacionais (PostgreSQL, SQL Server, Oracle)
 * Ambientes em nuvem e conteinerização
@@ -29,6 +31,7 @@ Sou **Desenvolvedor de Software** com **mais de 3 anos de experiência profissio
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
 ---
